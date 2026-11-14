@@ -1,0 +1,6 @@
+—————————————————— Supply ——————————————————————
+
+Template= İtem Name: (buy)(sell)
+
+Cardboard: (₺0,24)(₺0,18)
+Concrete: (₺4,19)(₺3,14)
