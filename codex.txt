@@ -169,4 +169,11 @@ Toy car [Retail] (₺33,16) {
     1x Box
 }
 
+Water gun [Retail] (₺27,40) {
+ 1x Paint
+ 6x Plastic
+ 2x Hose
+ 1x Box
+}
+
 
