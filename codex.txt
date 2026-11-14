@@ -13,3 +13,89 @@ Rubber: (₺1,10)(₺0,83)
 Wire: (₺1,71)(₺1,28)
 
 ————————————————————————————————————————————————
+
+————————————————— Product: Tier 1 ———————————————
+
+Adv concrete (₺14,47) {
+    2x Concrete
+    2x Metal
+}
+
+Belt (₺2,60) {
+    2x Rubber
+}
+
+Box (₺1,10) {
+    2x Cardboard
+}
+
+Cable (₺3,28) {
+    2x Metal
+}
+
+Circuit (₺3,54) {
+    2x Plastic
+    1x Wire
+}
+
+Gear (₺6,56) {
+    2x Metal
+}
+
+Hose (₺2,60) {
+    2x Rubber
+}
+
+Metal wheel (₺1,72) {
+    2x Metal
+}
+
+Motor (₺17,40) {
+    2x Magnet
+    1x Metal
+    2x Wire
+}
+
+Plastic wheel (₺1,72) {
+    2x Plastic
+}
+
+Pump (₺8,72) {
+    2x Metal
+    1x Plastic
+    1x Rubber
+}
+
+Rubber wheel (₺9,15) {
+    2x Metal
+    2x Rubber
+}
+
+Garden gnome [Retail] (₺13,68) {
+    1x Concrete
+    1x Paint
+    1x Box
+}
+
+Speakers [Retail] (₺27,20) {
+    2x Magnet
+    2x Plastic
+    1x Wire
+    1x Box
+}
+
+Sporks [Retail] (₺8,80) {
+    4x Plastic
+    1x Box
+}
+
+Toaster [Retail] (₺20,52) {
+    2x Metal
+    2x Wire
+    1x Box
+}
+
+————————————————————————————————————————————————
+
+————————————————— Product: Tier 2 ———————————————
+
