@@ -176,4 +176,67 @@ Water gun [Retail] (₺27,40) {
  1x Box
 }
 
+————————————————————————————————————————————————
+
+————————————————— Product: Tier 3 ———————————————
+
+Adv logic unit (₺66,84) {
+    4x Wire
+    4x Circuit
+    2x Logic unit
+}
+
+Assembly line (₺715,84) {
+    2x Air gun
+    2x Arm
+    3x Conveyor
+    1x Lifter
+    1x Mover
+}
+
+Jet engine (₺180,04) {
+    8x Metal
+    12x Wire
+    6x Hose
+    4x Pump
+    1x Thing-a-ma-jig
+}
+
+Sensor (₺41,35) {
+    2x Rare metal
+    1x Wire
+    1x Circuit
+    1x Logic unit
+}
+
+Bridge [Retail] (₺1091,16) {
+    6x Road
+    6x Support
+}
+
+Forklift [Retail] (₺191,80) {
+    6x Metal
+    2x Motor
+    4x Rubber wheel
+    4x Box
+}
+
+Radio tower [Retail] (₺414,00) {
+    12x Metal
+    6x Wire
+    4x Support
+}
+
+Tablet computer [Retail] (₺73,26) {
+    1x Plastic
+    3x Wire
+    1x Logic unit
+    1x Box
+}
+
+————————————————————————————————————————————————
+
+————————————————— Product: Tier 4 ———————————————
+
+
 
