@@ -99,3 +99,74 @@ Toaster [Retail] (₺20,52) {
 
 ————————————————— Product: Tier 2 ———————————————
 
+Air gun (₺19,78) {
+    4x Metal
+    2x Hose
+}
+
+Arm (₺51,68) {
+    2x Metal
+    1x Circuit
+    2x Motor
+}
+
+Conveyor (102,58) {
+    1x Belt
+    2x Gear
+    8x Metal wheel
+    1x Motor
+}
+
+Lifter (55,46) {
+    3x Metal
+    2x Cable
+    2x Hose
+    1x Motor
+    1x Pump
+}
+
+Logic unit (17,92) {
+    5x Wire
+    2x Circuit
+}
+
+Mover (₺113,65) {
+    3x Metal
+    4x Gear
+    4x Metal
+    2x Motor
+}
+
+Road (₺49,80) {
+    4x Concrete
+    2x Adv concrete
+}
+
+Support (₺40,53) {
+    2x Metal
+    2x Adv concrete
+}
+
+Thing-a-ma-jig (₺61,02) {
+    3x Circuit
+    2x Hose
+    1x Motor
+    2x Pump
+}
+
+Widget (₺14,78) {
+    1x Metal
+    4x Plastic
+    2x Wire
+    1x Circuit
+}
+
+Toy car [Retail] (₺33,16) {
+    1x Metal
+    1x Paint
+    3x Plastic
+    4x Plastic wheel
+    1x Box
+}
+
+
