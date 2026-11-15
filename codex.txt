@@ -238,5 +238,45 @@ Tablet computer [Retail] (₺73,26) {
 
 ————————————————— Product: Tier 4 ———————————————
 
+5G antenne [Retail] (₺724,00) {
+    4x Rare metal
+    8x Wire
+    2x Circuit
+    1x Adv logic unit
+    6x Sensor
+}
+
+Drone [Retail] (₺460,00) {
+    4x Plastic
+    4x Rare metal
+    4x Motor
+    1x Adv logic unit
+    2x Sensor
+}
+
+Jet [Retail] (₺3108,48) {
+    24x Metal
+    18x Wire
+    6x Adv logic unit
+    4x Jet engine
+    8x Sensor
+}
+
+Oculus rift [Retail] (₺267,20) {
+    2x Plastic
+    2x Rare metal
+    4x Wire
+    2x Widget
+    2x Sensor
+}
+
+————————————————————————————————————————————————
+
+————————————————— Builder ——————————————————————
+
+
+
+
+
 
 
