@@ -328,6 +328,26 @@ Builder: Universal (₺2251,06) {
 
 ————————————————— Tasker ———————————————————————
 
+Tasker: Purchasing (₺69,16) {
+    1x Paint
+    6x Wire
+    4x Circuit
+    1x Logic unit
+    1x Widget
+}
 
+Tasker: Sales (₺153,30) {
+    1x Paint
+    8x Wire
+    2x Logic unit
+    1x Widget
+    1x Adv logic unit
+}
 
-
+Tasker: Delivery (₺380,28) {
+    14x Metal
+    2x Motor
+    4x Rubber wheel
+    2x Adv logic unit
+    2x Sensor
+}
