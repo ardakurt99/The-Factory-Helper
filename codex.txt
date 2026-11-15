@@ -274,8 +274,59 @@ Oculus rift [Retail] (₺267,20) {
 
 ————————————————— Builder ——————————————————————
 
+Builder: Tire 1 (₺328,74) {
+    1x Motor
+    2x Arm
+    1x Conveyor
+    1x Thing-a-ma-jig
+}
 
+Builder: Tire 2 (₺423,20) {
+    1x Motor
+    3x Arm
+    1x Conveyor
+    1x Thing-a-ma-jig
+    2x Widget
+}
 
+Builder: Tire 3 (₺984,40) {
+    1x Logic unit
+    1x Thing-a-ma-jig
+    4x Widget
+    1x Assembly line
+}
+
+Builder: Tire 4 (₺1300,05) {
+    2x Widget
+    2x Adv logic unit
+    1x Assembly line
+    6x Sensor
+}
+
+Builder: Builders (₺1263,48) {
+    2x Arm
+    1x Logic unit
+    4x Thing-a-ma-jig
+    1x Assembly line
+}
+
+Builder: Taskers (₺1076,49) {
+    2x Thing-a-am-jig
+    2x Widget
+    1x Adv logic unit
+    1x Assembly
+}
+
+Builder: Universal (₺2251,06) {
+    4x Arm
+    2x Thing-a-am-jig
+    2x Adv logic unit
+    2x Assembly line
+}
+
+————————————————————————————————————————————————
+
+————————————————— Tasker ———————————————————————
 
 
 
